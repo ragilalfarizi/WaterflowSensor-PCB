@@ -1,4 +1,4 @@
-21571085773678181
+21572772244046939
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -82928,6 +82928,13 @@ Integrated Circuit
 0
 33
 33
+SamacSys_Parts
+SON127P600X500X80-9N-D
+W25Q32JVZPIQ
+Integrated Circuit
+0
+9
+9
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
